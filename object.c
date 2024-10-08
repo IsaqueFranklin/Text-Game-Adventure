@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "object.h"
+
 OBJECT objs[] = {
    {"an open field", "field"   , NULL  },
    {"a little cave", "cave"    , NULL  },

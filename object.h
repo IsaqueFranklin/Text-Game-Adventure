@@ -1,3 +1,5 @@
+#define OBJECT_H
+
 typedef struct object {
    const char    *description;
    const char    *tag;
